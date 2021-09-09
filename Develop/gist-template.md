@@ -1,7 +1,8 @@
-# Title (replace with your title)
+# Finding a URL with regex
 
-Introductory paragraph (replace this with your text)
+\b(https?:\/\/)?(www.)?(\w+)\.([a-z]{2,3})\b
 
+I will be explaining the following regex
 ## Summary
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
